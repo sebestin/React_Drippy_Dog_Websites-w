@@ -1,0 +1,167 @@
+.tretit{
+    color: white;
+    text-align: center;
+    font-size:50px;
+    font-weight: 600;
+    margin-top:2%;
+}
+
+@media (min-width: 280px) and (max-width: 424px) {
+    .tretit{
+        color: white;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 600;
+    }
+  }
+
+  @media (min-width: 425px) and (max-width: 767px) {
+    .tretit{
+        color: white;
+        text-align: center;
+        font-size: 39px;
+        font-weight: 600;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .tretit{
+        color: white;
+        text-align: center;
+        font-size: 39px;
+        font-weight: 600;
+    }
+  }
+
+  @media (min-width: 1024px) and (max-width: 1440px) {
+    .tretit{
+        color: white;
+        text-align: center;
+        font-size: 48px;
+        font-weight: 600;
+    }
+  }
+
+
+
+  .toppo{
+    width: 38px;
+    height: 38px;
+    border-radius: 19px;
+    background: rgb(192, 192, 192);
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    line-height: 35px;
+    margin-bottom: 5px;
+  }
+
+  @media (min-width: 280px) and (max-width: 424px) {
+    .toppo{
+        width: 29px;
+        height: 29px;
+        border-radius: 19px;
+        background: rgb(192, 192, 192);
+        color: white;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        text-align: center;
+        line-height: 35px;
+        margin-bottom: 5px;
+      }
+    
+  }
+
+  .avtar{
+    width: 130px;
+    height: 130px;
+    border: 6px solid rgba(255, 255, 255, 0.06);
+    border-radius: 65px;
+    box-shadow: rgb(0 0 0 / 5%) 0px 0px 15.4699px 17.1888px;
+    margin-bottom: 5px;
+}
+@media (min-width: 280px) and (max-width: 424px) {
+    .avtar{
+        width: 80px;
+        height: 80px;
+        border: 6px solid rgba(255, 255, 255, 0.06);
+        border-radius: 65px;
+        box-shadow: rgb(0 0 0 / 5%) 0px 0px 15.4699px 17.1888px;
+        margin-bottom: 5px;
+    }
+  }
+
+  .points{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+  }
+
+  .pointsLabel{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 33px;
+    text-align: center;
+
+  }
+
+  .jAOuAE {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.jQDRQz {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.fmzZft {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+@media (min-width: 280px) and (max-width: 424px) {
+    .fmzZft {
+        display: flex;
+        flex-direction: column;
+        -webkit-box-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        justify-content: center;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+  }
+
+.ash {
+    width: 216px;
+    height: 216px;
+    border: 7px solid rgba(255, 255, 255, 0.06);
+    border-radius: 108px!important;
+    box-shadow: rgb(0 0 0 / 5%) 0px 0px 15.4699px 17.1888px;
+}
+
+.spk {
+    color: white;
+    float: right;
+    font-size: 50px;
+}

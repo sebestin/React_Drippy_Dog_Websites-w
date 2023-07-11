@@ -1,0 +1,32 @@
+.App {
+  font-family:Roboto !important;
+  /* background-color:#1A1210 */
+}
+
+
+body {
+  align-items: center;
+  
+}
+
+.navbarNew {
+  background: #1a1210;
+  /* text:black; */
+}
+
+.navlink {
+  color: "white";
+}
+
+.bkg {
+  /* background-color: red; */
+  background-image: url(../src/Assets/dog_background.png);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+}
+
+
+
+
+

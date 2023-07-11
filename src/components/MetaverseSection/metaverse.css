@@ -1,0 +1,102 @@
+.meta {
+  font-size: 60px;
+  font-weight: 900;
+  color: rgb(255, 255, 255);
+  line-height: 66px;
+  margin-top: 100px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@media (min-width: 280px) and (max-width: 319px) {
+  .meta {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+  .meta {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 424px) {
+  .meta {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+  .meta {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+}
+
+.img {
+  width: 100%;
+  align-items: center;
+  margin-top: 50px;
+}
+@media (min-width: 375px) and (max-width: 424px) {
+  .img {
+    width: 72%;
+    margin-left: 15%;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+  .img {
+    width: 100%;
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .img {
+    width: 100%;
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 20px;
+  }
+}
+
+.imtext {
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+}
+@media (min-width: 375px) and (max-width: 424px) {
+  .imtext {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .imtext {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+
+.vid1{
+  width: auto!important;
+  /* height: auto!important; */
+  margin-top: 4%;
+}

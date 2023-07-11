@@ -1,0 +1,71 @@
+.and {
+  margin-top: 5%;
+  color: white;
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+@media (min-width: 280px) and (max-width: 319px) {
+  .and {
+    margin-top: 5%;
+    color: white;
+    font-size: 30px;
+    font-weight: 600!important;
+    text-transform: uppercase;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+  .and {
+    margin-top: 5%;
+    color: white;
+    font-size: 38px;
+    font-weight: 600!important;
+    text-transform: uppercase;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 424px) {
+  .and {
+    margin-top: 5%;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+}
+
+.parand {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+@media (min-width: 280px) and (max-width: 319px) {
+  .parand {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    letter-spacing: 0.2px;
+    line-height: 21px;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+}
+@media (min-width: 375px) and (max-width: 424px) {
+  .parand {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    letter-spacing: 0.2px;
+    line-height: 21px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+.dog3 {
+  width: 100%;
+}

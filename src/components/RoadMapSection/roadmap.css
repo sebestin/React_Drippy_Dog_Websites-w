@@ -1,0 +1,244 @@
+.newt {
+  font-size: 60px;
+  font-weight: 900;
+  color: rgb(255, 255, 255);
+  line-height: 66px;
+  margin-top: 100px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@media (min-width: 280px) and (max-width: 319px) {
+  .newt {
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+  .newt {
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 424px) {
+  .newt {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+  .newt {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 25px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .newt {
+    font-size: 50px;
+    font-weight: 600;
+  }
+}
+
+.newqq {
+  color: rgb(255, 255, 255);
+  align-items: center;
+  width: 100vw;
+  display: inline-flex;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 600;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+@media (min-width: 280px) and (max-width: 319px) {
+  .newqq {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    width: 100vw;
+    display: inline-flex;
+    font-size: 21px;
+    line-height: 30px;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+  .newqq {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    width: 100vw;
+    display: inline-flex;
+    font-size: 21px;
+    line-height: 30px;
+    font-weight: 500;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+}
+}
+
+
+@media (min-width: 375px) and (max-width: 424px) {
+  .newqq {
+    font-size: 20px;
+    font-weight: 400;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+  .newqq {
+    font-size: 18px;
+    font-weight: 400;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .newqq {
+    font-size: 24px;
+    font-weight: 600;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+.road1 {
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.round {
+  float: left;
+  margin-left: 150px;
+  margin-top: 11px;
+  color: #fff;
+  height: 80px;
+  width: 78px;
+  background-color: #ed1e24;
+  border-radius: 50%;
+  padding: 26px 5px;
+  padding-left: 26px;
+}
+
+.roadtext {
+  margin-top: 50px;
+  text-decoration-line: line-through;
+  color: #fff;
+  font-size: 18px;
+  margin-left: 300px;
+  line-height: 24px;
+}
+
+.roadtext2 {
+  margin-top: 50px;
+  color: #fff;
+  font-size: 18px;
+  margin-left: 300px;
+  line-height: 24px;
+}
+
+.arrow {
+  vertical-align: middle;
+  margin-top: 4px;
+  margin-left: -119px;
+}
+
+.arrow70 {
+  vertical-align: middle;
+  margin-top: 4px;
+  margin-left: -119px;
+}
+
+.arrow90 {
+  vertical-align: middle;
+  margin-top: -20px;
+  margin-left: -119px;
+}
+
+.horiz {
+  margin: 1rem 0;
+  color: white;
+  border: 9;
+  opacity: 0.25;
+}
+
+.newtime {
+  /* color:white; */
+  font-size: 18px;
+  font-weight: 400;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+@media (min-width: 280px) and (max-width: 319px) {
+  .newtime {
+    /* color:red; */
+    font-size: 12px;
+    font-weight: 100;
+    align-items: center;
+    padding-left: 0px;
+    padding-right: 10px;
+  }
+}
+@media (min-width: 320px) and (max-width: 374px) {
+  .newtime {
+    /* color:red; */
+    font-size: 12px;
+    font-weight: 100;
+    align-items: center;
+    padding-left: 0px;
+    padding-right: 10px;
+  }
+}
+@media (min-width: 425px) and (max-width: 767px) {
+  .newtime {
+    /* color:red; */
+    font-size: 12px;
+    font-weight: 100;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .newtime {
+    font-size: 14px;
+    font-weight: 200;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.vertical-timeline-element-content.bounce-in {
+  min-height: 1px;
+}
+
+@media (min-width: 375px) and (max-width: 424px) {
+  .vertical-timeline-element-content.bounce-in {
+    min-height: 1px;
+    margin-left: 10px;
+  }
+}

@@ -1,0 +1,34 @@
+.ttl1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+
+@media (min-width: 280px) and (max-width: 319px) {
+  .ttl1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+  .ttl1 {
+    color: white;
+    text-align: center;
+    font-size: 37px;
+    font-weight: 600;
+    margin-top: 50px;
+  }
+}
+
+.dog4 {
+  height: 100%;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
